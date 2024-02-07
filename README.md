@@ -1,0 +1,1 @@
+For me, it took quite a bit of time to view the pdf file on github so I suggest you download the pdf file itself, instead of viewing it on site. The file consists of 41 pages and you will have to wait for couple of seconds every few pages if you view on site.
